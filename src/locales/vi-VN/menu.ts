@@ -8,4 +8,8 @@ export default {
 
 	'menu.DanhMuc': 'Danh mục',
 	'menu.DanhMuc.ChucVu': 'Chức vụ',
+	'menu.RandomUser': 'RandomUser',
+	'menu.Bai1': 'Bài 1',
+	'menu.Bai2': 'Bài 2',
+	'menu.ClubManagement': 'Quản lý CLB',
 };

@@ -1,6 +1,4 @@
-﻿import path from "path";
-
-export default [
+﻿export default [
 	{
 		path: '/user',
 		layout: false,
@@ -34,14 +32,23 @@ export default [
 	},
 	{
 		path: '/random-user',
-		name: 'RandomUser',
+		name: 'menu.RandomUser',
 		component: './RandomUser',
 	},
 	{
+		path: '/club-management',
+		name: 'menu.ClubManagement',
+		component: './ClubManagement',
+	},
+	{
 		path: '/oan-tu-ti',
-		name: 'Bai1',
+		name: 'menu.Bai1',
 		component: './OanTuTi',
-		
+	},
+	{
+		path: '/question-bank',
+		name: 'menu.Bai2',
+		component: './QuestionBank',
 	},
 	{
 		path: '/question-bank',

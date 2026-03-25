@@ -5,7 +5,11 @@ export default {
   'menu.Dashboard': 'Trang chủ',
   'menu.News': 'Tin tức',
 
-  'menu.DanhMuc': 'Danh mục',
-  'menu.DanhMuc.ChucVu': 'Chức vụ',
-  'menu.DanhMuc.LoaiPhongBan': 'Loại phòng ban',
+  'menu.DanhMuc': 'Category',
+  'menu.DanhMuc.ChucVu': 'Position',
+  'menu.DanhMuc.LoaiPhongBan': 'Department Type',
+  'menu.RandomUser': 'RandomUser',
+  'menu.Bai1': 'Bai1',
+  'menu.Bai2': 'Bai2',
+  'menu.ClubManagement': 'Club Management',
 };
