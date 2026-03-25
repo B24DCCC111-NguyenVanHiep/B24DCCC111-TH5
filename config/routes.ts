@@ -48,6 +48,34 @@ export default [
 		name: 'Bai2',
 		component: './QuestionBank',
 	},
+	{ name: 'Quản lý Lịch hẹn', path: '/th03', routes: [
+		{
+			name: 'NhanVien',
+			path: 'nhan-vien',
+			component: './TH03/NhanVien',
+		},
+		{
+			name: 'DichVu',
+			path: 'dich-vu',
+			component: './TH03/DichVu',
+		},
+		{
+			name: 'LichHen',
+			path: 'lich-hen',
+			component: './TH03/LichHen',
+		},
+		{
+			name: 'DanhGia',
+			path: 'danh-gia',
+			component: './TH03/DanhGia',
+		},
+	]},
+	
+
+
+
+
+
 
 	///////////////////////////////////
 	
